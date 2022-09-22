@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-red)]()
-[![Linkedin Badge](https://img.shields.io/badge/-Lakshmi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lakshmi-p-g-900677251/)](https://www.linkedin.com/in/lakshmi-p-g-900677251//)
+[![Linkedin Badge](https://img.shields.io/badge/-Lakshmi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lakshmipg//)](https://www.linkedin.com/in/lakshmipg/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Lakshmi-green)](https://www.akash)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Lakshmi-yellow)](https://stackoverflow.com/users/20031911/lakshmi-pg)
 
