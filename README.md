@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)]()
+[![YouTube Badge](https://img.shields.io/badge/YouTube-red)]()
 [![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/aakash--01629954/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Lakshmi-green)](https://www.akash)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Lakshmi-yellow)](https://stackoverflow.com/users/20031911/lakshmi-pg)
