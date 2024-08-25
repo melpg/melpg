@@ -9,7 +9,7 @@ Full Stack Solution Architect
 The crossover between design and programming has always been of interest to me. I have a wide range of skills that include back-end development using open source technologies (NodeJs), design, front-end development (React, ReactJs, HTML5, CSS3, Javascript, Responsive, UX),database(MongoDB,Mysql)
 
 
-![Visitor Count](https://profile-counter.glitch.me/lakshmipg-2k/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Lucky2k21/count.svg)
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
