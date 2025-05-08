@@ -3,7 +3,8 @@
 
 I'm
 Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me. I have a wide range of skills that include back-end development using open source technologies (NodeJs), design, front-end development (React, ReactJs, HTML5, CSS3, Javascript, Responsive, UX),database(MongoDB,Mysql)
+The crossover between design and programming has always been of interest to me. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), front-end development ( HTML5, CSS3, Javascript, ReactJs, Responsive, UX), database(MongoDB,Mysql), CI/CD(Docker, Kubernetes)
+
 
 
 ![Visitor Count](https://profile-counter.glitch.me/Lucky2k21/count.svg)
@@ -11,7 +12,7 @@ The crossover between design and programming has always been of interest to me. 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=lakshmipg-2k&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=melpg&column=7"/>
   </a>
 </div>
 
