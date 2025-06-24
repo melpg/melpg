@@ -2,7 +2,7 @@
 
 
 I'm
-Full Stack Solution Architect
+Full Stack Solution Architect.
 The crossover between design and programming has always been of interest to me. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), front-end development ( HTML5, CSS3, Javascript, ReactJs, Responsive, UX), database(MongoDB,Mysql), CI/CD(Docker, Kubernetes)
 
 
